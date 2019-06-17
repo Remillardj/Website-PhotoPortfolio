@@ -3,6 +3,7 @@
 Website-PhotoPortfoliois a responsive HTML template for [Bootstrap](http://getbootstrap.com/) based on [Start Bootstrap](http://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
 
 ## Preview
+[View Here](https://remillardj.github.io/Website-PhotoPortfolio/)
 
 ## Status
 
