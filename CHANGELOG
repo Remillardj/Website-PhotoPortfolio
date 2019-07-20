@@ -1,4 +1,7 @@
 # CHANGELOG
+## 0.1.2
+- Fix lodash security issue
+
 ## 0.1.1
 - Add link to view in real time
 
